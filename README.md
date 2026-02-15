@@ -2,7 +2,7 @@
 Hello!
 
 You can upload and download each other's HW assignments for the peer review process here.
-There is one folder that will contain the completed peer reviewed HW called **"Completed Reviews"**.
+There is one folder that will contain the completed peer reviewed HW called **"Completed_Reviews"**.
 
 Please name your uploaded files: **firstname_lastinitial_HW_##**
 
